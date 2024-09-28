@@ -1,35 +1,11 @@
 ---
-title: "warwickcourse"
+title: "Warwick Stats Resources"
 ---
 
-Welcome to the course!
+This is the landing page associated with the [Warwick-Stats-Resources GitHub repo](https://github.com/Warwick-Stats-Resources).
 
-This course is aimed primarily at...
+On the [resources](resources.qmd) page, you'll find details of our projects designed to make it easier to create plots, presentations and course websites consistent with the Warwick brand.
 
-## Syllabus overview
+On the [courses](courses.qmd) page, you'll find links to all the courses we've taught. 
+Upcoming and in-progess courses are also listed here.
 
-What we're covering...
-
-All slides and further resources can be accessed from the [content](content.qmd) page and also via the [schedule](schedule.qmd). 
-
-## Session details
-
-{{< fa calendar >}} &nbsp; **DAY OF COURSE**
-
-{{< fa clock >}} &nbsp; **TIME OF COURSE**
-
-{{< fa location-dot >}} &nbsp; **LOCATION** 
-
-{{< fa calendar-alt >}} &nbsp; See the full [schedule](schedule.qmd).
-
-Please see the [join](join.qmd) page for more details on how to attend the course.
-
-## Instructor details
-
-{{< fa user >}} &nbsp; [**INSTRUCTOR**](https://INTSTRUCTOR-WEB-PAGE)
-
-{{< fa envelope >}} &nbsp; [**INSTRUCTOR E-MAIL**](mailto:INSTRUCTOR-E-MAIL)
-
-## Prerequistes
-
-Please see the [prerequisites](prerequisites.qmd) page for details on getting set up in advance of the first session.

@@ -5,28 +5,22 @@ execute:
   freeze: auto
 
 website:
-  title: "warwickcourse"
+  title: "Warwick Stats Resources"
   favicon: images/warwick-monogram-favicon.png
   navbar:
     right:
-      - text: "Join"
-        file: join.qmd
-      - text: "Prerequisites"
-        file: prerequisites.qmd
-      - text: "Schedule"
-        file: schedule.qmd
-      - text: "Content"
-        file: content.qmd
+      - text: "Resources"
+        file: resources.qmd
+      - text: "Courses"
+        file: courses.qmd
  
       - icon: github
-        href: https://github.com/Warwick-Stats-Resources/warwickcourse
-  page-footer: "All material is shared under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/){target='_blank'} license."
+        href: https://github.com/Warwick-Stats-Resources/
   
 format:
   html:
     theme: custom.scss
     highlight-style: warwick.theme
-    css: styles.css
     toc: true
     link-external-newwindow: true
     

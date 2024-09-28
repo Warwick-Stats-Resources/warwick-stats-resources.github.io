@@ -1,0 +1,27 @@
+---
+title: Resources
+---
+
+
+
+## warwickplots
+
+[{{< fa brands github >}} source](https://github.com/warwick-stats-resources/warwickplots){.btn .btn-primary}
+[{{< fa box-open >}} documentation](https://warwick-stats-resources.github.io/warwickplots){.btn .btn-primary}
+
+
+An R package with colour palettes and a
+[ggplot2](https://ggplot2.tidyverse.org) theme that are consistent with
+The University of Warwick’s
+[branding](https://warwick.ac.uk/about/brand/brand-guidelines/),
+especially its
+[colours](https://warwick.ac.uk/about/brand/brand-guidelines/colours/)
+and
+[typography](https://warwick.ac.uk/about/brand/brand-guidelines/typography/).
+
+The palettes are built using the
+[palettes](https://mccarthy-m-g.github.io/palettes/index.html) package.
+The ggplot2 theme is heavily inspired by the work of [Cara
+Thompson](https://www.cararthompson.com/), particularly this talk on
+[applying a unifying aesthetic to your
+plots](https://www.cararthompson.com/talks/nhsr2022-ggplot-themes/).
