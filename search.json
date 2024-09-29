@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "source  documentation\nAn R package with colour palettes and a ggplot2 theme that are consistent with The University of Warwick’s branding, especially its colours and typography.\nThe palettes are built using the palettes package. The ggplot2 theme is heavily inspired by the work of Cara Thompson, particularly this talk on applying a unifying aesthetic to your plots."
+  },
+  {
+    "objectID": "resources.html#warwickplots",
+    "href": "resources.html#warwickplots",
+    "title": "Resources",
+    "section": "",
+    "text": "source  documentation\nAn R package with colour palettes and a ggplot2 theme that are consistent with The University of Warwick’s branding, especially its colours and typography.\nThe palettes are built using the palettes package. The ggplot2 theme is heavily inspired by the work of Cara Thompson, particularly this talk on applying a unifying aesthetic to your plots."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Warwick Stats Resources",
+    "section": "",
+    "text": "This is the landing page associated with the Warwick-Stats-Resources GitHub repo.\nOn the resources page, you’ll find details of our projects designed to make it easier to create plots, presentations and course websites consistent with the Warwick brand.\nOn the courses page, you’ll find links to all the courses we’ve taught. Upcoming and in-progess courses are also listed here."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Content",
+    "section": "",
+    "text": "Date\n\n\nTitle\n\n\n\n\n\n\n\nNo matching items"
+  }
+]
