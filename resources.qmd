@@ -2,7 +2,7 @@
 title: Resources
 ---
 
-
+Here are the links to a trio of resources to produce University of Warwick branded plots, presentations and course websites, using R and Quarto.
 
 ## warwickplots
 
@@ -25,3 +25,35 @@ The ggplot2 theme is heavily inspired by the work of [Cara
 Thompson](https://www.cararthompson.com/), particularly this talk on
 [applying a unifying aesthetic to your
 plots](https://www.cararthompson.com/talks/nhsr2022-ggplot-themes/).
+
+## warwickpres
+
+[{{< fa brands github >}} source](https://github.com/warwick-stats-resources/warwickpres){.btn .btn-primary}
+[{{< fa box-open >}} documentation](https://warwick-stats-resources.github.io/warwickpres){.btn .btn-primary}
+
+This is a Quarto Revealjs presentation format that is consistent with The University of Warwick's brand.
+
+It offers the following:
+
+- The University of Warwick logo on the title slide
+- A theme consistent with the University of Warwick's brand colours, including an inverse class
+- A font (Lato) consistent with the University of Warwick's typography guidelines
+- Colours consistent with the brand for quarto callouts
+- A custom syntax highlighting theme consistent with the brand colours
+- Additional convenience classes for sizing and aligning
+
+## warwickcourse
+
+[{{< fa brands github >}} source](https://github.com/warwick-stats-resources/warwickcourse){.btn .btn-primary}
+[{{< fa box-open >}} template website](https://warwick-stats-resources.github.io/warwickcourse){.btn .btn-primary}
+[{{< fa globe >}} full example website](https://warwick-stats-resources.github.io/r-packages-2024/){.btn .btn-primary}
+
+This template is consistent with the University of Warwick's brand, and makes it easy to make and publish websites for courses, workshops and similar.
+
+What the template looks like as a website: [warwick-stats-resources.github.io/warwickcourse](https://Warwick-Stats-Resources.github.io/warwickcourse)
+
+An example of the template used for a full course: [warwick-stats-resources.github.io/r-packages-2024/](https://Warwick-Stats-Resources.github.io/r-packages-2024)
+
+The template has a home page ready to fill in key information about the course. It assumes that the course/workshop is delivered across several sessions, and that each session will have its own content page and its own set of slides (though can be simplified if only one content page/set of slides is required). The slides for each session are embedded in the content page for the session, and a link is supplied to read the slides in a new window.
+
+For full documentation on how to use the template, see the GitHub repo's [README](https://github.com/Warwick-Stats-Resources/warwickcourse/blob/main/README.md).
