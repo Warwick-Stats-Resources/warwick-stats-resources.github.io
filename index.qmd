@@ -6,6 +6,9 @@ This is the landing page associated with the [Warwick-Stats-Resources GitHub rep
 
 On the [resources](resources.qmd) page, you'll find details of our projects designed to make it easier to create plots, presentations and course websites consistent with the Warwick brand.
 
-On the [courses](courses.qmd) page, you'll find links to all the courses we've taught. 
+On the [courses](courses.qmd) page, you'll find links to our latest courses.
 Upcoming and in-progess courses are also listed here.
 
+## Upcoming courses
+
+Our next course is **R Foundations**, in Oct-Nov 2024. Details will be listed here very shortly.
