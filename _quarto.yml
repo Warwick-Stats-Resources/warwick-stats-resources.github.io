@@ -15,7 +15,7 @@ website:
         file: courses.qmd
       - icon: github
         href: https://github.com/Warwick-Stats-Resources/
-  page-footer: "Website and resources developed by [Ella Kaye](https://warwick.ac.uk/ellakaye)" 
+  page-footer: "Website, resources and courses developed by [Ella Kaye](https://warwick.ac.uk/ellakaye)" 
   
 format:
   html:
