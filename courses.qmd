@@ -15,7 +15,7 @@ This page lists the most recent iteration of each course.
 
 This course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts/) to cover the R material that’s required for those modules.
 
-We cover at introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.
+We cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.
 
 **Note that the slides are still under development**.
 
