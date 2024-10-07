@@ -53,7 +53,7 @@
     "href": "courses.html#upcoming-courses",
     "title": "Courses",
     "section": "Upcoming courses",
-    "text": "Upcoming courses\n\nR Foundations (Oct–Nov 2024)\n website  source\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover at introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.\nNote that the slides are still under development."
+    "text": "Upcoming courses\n\nR Foundations (Oct–Nov 2024)\n website  source\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.\nNote that the slides are still under development."
   },
   {
     "objectID": "courses.html#past-courses",
