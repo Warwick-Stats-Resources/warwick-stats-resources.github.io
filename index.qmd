@@ -4,11 +4,16 @@ title: "Warwick Stats Resources"
 
 This is the landing page associated with the [Warwick-Stats-Resources GitHub repo](https://github.com/Warwick-Stats-Resources).
 
-On the [resources](resources.qmd) page, you'll find details of our projects designed to make it easier to create plots, presentations and course websites consistent with the Warwick brand.
+On the [resources](resources.qmd) page, you'll find details of our projects designed to make it easier to create plots, presentations and course websites consistent with the University of Warwick [brand](https://warwick.ac.uk/about/brand/).
 
 On the [courses](courses.qmd) page, you'll find links to our latest courses.
 Upcoming and in-progess courses are also listed here.
 
 ## Upcoming courses
 
-Our next course is **R Foundations**, in Oct-Nov 2024. Details will be listed here very shortly.
+Our next course is **R Foundations**, in Oct-Nov 2024:
+
+[{{< fa globe >}} website](https://warwick-stats-resources.github.io/r-foundations-2024/){.btn .btn-primary}
+[{{< fa brands github >}} source](https://github.com/Warwick-Stats-Resources/r-foundations-2024){.btn .btn-primary}
+
+**Note that the slides are still under development**.

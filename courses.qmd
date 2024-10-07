@@ -6,16 +6,25 @@ We teach three courses annually, usually one per term.
 
 This page lists the most recent iteration of each course.
 
+## Upcoming courses
+
+### R Foundations (Oct--Nov 2024)
+
+[{{< fa globe >}} website](https://warwick-stats-resources.github.io/r-foundations-2024/){.btn .btn-primary}
+[{{< fa brands github >}} source](https://github.com/Warwick-Stats-Resources/r-foundations-2024){.btn .btn-primary}
+
+This course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts/) to cover the R material that’s required for those modules.
+
+We cover at introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.
+
+**Note that the slides are still under development**.
+
 ## Past courses
 
 ### R Foundations (Oct--Dec 2023)
 
 [{{< fa globe >}} website](https://warwick-stats-resources.github.io/r-foundations/){.btn .btn-primary}
 [{{< fa brands github >}} source](https://github.com/Warwick-Stats-Resources/r-foundations){.btn .btn-primary}
-
-This course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts/) to cover the R material that’s required for those modules.
-
-We cover at introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.
 
 ### R Programming (March 2024)
 
