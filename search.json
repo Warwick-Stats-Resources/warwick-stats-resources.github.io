@@ -32,14 +32,14 @@
     "href": "index.html",
     "title": "Warwick Stats Resources",
     "section": "",
-    "text": "This is the landing page associated with the Warwick-Stats-Resources GitHub repo.\nOn the resources page, you’ll find details of our projects designed to make it easier to create plots, presentations and course websites consistent with the Warwick brand.\nOn the courses page, you’ll find links to our latest courses. Upcoming and in-progess courses are also listed here."
+    "text": "This is the landing page associated with the Warwick-Stats-Resources GitHub repo.\nOn the resources page, you’ll find details of our projects designed to make it easier to create plots, presentations and course websites consistent with the University of Warwick brand.\nOn the courses page, you’ll find links to our latest courses. Upcoming and in-progess courses are also listed here."
   },
   {
     "objectID": "index.html#upcoming-courses",
     "href": "index.html#upcoming-courses",
     "title": "Warwick Stats Resources",
     "section": "Upcoming courses",
-    "text": "Upcoming courses\nOur next course is R Foundations, in Oct-Nov 2024. Details will be listed here very shortly."
+    "text": "Upcoming courses\nOur next course is R Foundations, in Oct-Nov 2024:\n website  source\nNote that the slides are still under development."
   },
   {
     "objectID": "courses.html",
@@ -49,10 +49,17 @@
     "text": "We teach three courses annually, usually one per term.\nThis page lists the most recent iteration of each course."
   },
   {
+    "objectID": "courses.html#upcoming-courses",
+    "href": "courses.html#upcoming-courses",
+    "title": "Courses",
+    "section": "Upcoming courses",
+    "text": "Upcoming courses\n\nR Foundations (Oct–Nov 2024)\n website  source\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover at introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.\nNote that the slides are still under development."
+  },
+  {
     "objectID": "courses.html#past-courses",
     "href": "courses.html#past-courses",
     "title": "Courses",
     "section": "Past courses",
-    "text": "Past courses\n\nR Foundations (Oct–Dec 2023)\n website  source\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover at introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.\n\n\nR Programming (March 2024)\n website  source\nThis is an intermediate/advanced level course. Topics covered include writing functions, error handling and debugging, classes and methods, efficient programming, profiling, C++ and Rcpp, and R tools for working with git/GitHub.\n\n\nR Packages (June 2024)\n website  source\nThis is a hands-on workshop covering the entire process of creating an R package: including functions and data, checking and testing, all levels of documentation, publication and maintenance. The final session covers the advanced topic of using Rcpp code in a package."
+    "text": "Past courses\n\nR Foundations (Oct–Dec 2023)\n website  source\n\n\nR Programming (March 2024)\n website  source\nThis is an intermediate/advanced level course. Topics covered include writing functions, error handling and debugging, classes and methods, efficient programming, profiling, C++ and Rcpp, and R tools for working with git/GitHub.\n\n\nR Packages (June 2024)\n website  source\nThis is a hands-on workshop covering the entire process of creating an R package: including functions and data, checking and testing, all levels of documentation, publication and maintenance. The final session covers the advanced topic of using Rcpp code in a package."
   }
 ]
