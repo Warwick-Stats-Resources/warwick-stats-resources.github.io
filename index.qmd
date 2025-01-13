@@ -10,10 +10,4 @@ On the [courses](courses.qmd) page, you'll find links to our latest courses.
 Upcoming and in-progess courses are also listed here.
 
 ## Upcoming courses
-
-Our next course is **R Foundations**, in Oct-Nov 2024:
-
-[{{< fa globe >}} website](https://warwick-stats-resources.github.io/r-foundations-2024/){.btn .btn-primary}
-[{{< fa brands github >}} source](https://github.com/Warwick-Stats-Resources/r-foundations-2024){.btn .btn-primary}
-
-**Note that the slides are still under development**.
+There are no upcoming courses currently scheduled, though it is likely we will run the R Programming course in Spring 2025.
