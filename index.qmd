@@ -11,8 +11,8 @@ Upcoming and in-progess courses are also listed here.
 
 ## Upcoming courses
 
-There are no courses currently scheduled.
+R Package Development, June 23rd--24th, University of Warwick
 
-We will run an R Package Development course in early summer 2025, likely June.
-Please email [ella.m.kaye@warwick.ac.uk](mailto:ella.m.kaye@warwick.ac.uk) to be notified when 
-details are announced and registration is open.
+[{{< fa globe >}} website](https://warwick-stats-resources.github.io/r-packages-2025/){.btn .btn-primary}
+[{{< fa brands github >}} source](https://github.com/Warwick-Stats-Resources/r-packages-2025){.btn .btn-primary}
+[](https://warwick.ac.uk/ellakaye/r-packages-2025)
