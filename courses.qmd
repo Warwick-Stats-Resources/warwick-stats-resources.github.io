@@ -6,11 +6,9 @@ We teach three courses annually, usually one per term.
 
 ## Upcoming courses
 
-R Package Development, June 23rd--24th, University of Warwick
-
-[{{< fa globe >}} website](https://warwick-stats-resources.github.io/r-packages-2025/){.btn .btn-primary}
-[{{< fa brands github >}} source](https://github.com/Warwick-Stats-Resources/r-packages-2025){.btn .btn-primary}
-[](https://warwick.ac.uk/ellakaye/r-packages-2025)
+We will be running an R Foundations course at University of Warwick in October-November 2025.
+Details TBC. 
+Please email [ella.m.kaye@warwick.ac.uk](mailto:ella.m.kaye@warwick.ac.uk) to express your interest. 
 
 ## Past courses
 
