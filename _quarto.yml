@@ -6,7 +6,7 @@ execute:
 
 website:
   title: "Warwick Stats Resources"
-  favicon: images/warwick-monogram-favicon.png
+#  favicon: images/warwick-monogram-favicon.png
   navbar:
     right:
       - text: "Resources"
