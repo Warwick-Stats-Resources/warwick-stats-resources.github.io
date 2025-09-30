@@ -7,46 +7,25 @@
     "text": "Here are the links to a trio of resources to produce University of Warwick branded plots, presentations and course websites, using R and Quarto."
   },
   {
-    "objectID": "resources.html#warwickplots",
-    "href": "resources.html#warwickplots",
-    "title": "Resources",
-    "section": "warwickplots",
-    "text": "warwickplots\n source  documentation\nAn R package with colour palettes and a ggplot2 theme that are consistent with The University of Warwick’s branding, especially its colours and typography.\nThe palettes are built using the palettes package. The ggplot2 theme is heavily inspired by the work of Cara Thompson, particularly this talk on applying a unifying aesthetic to your plots."
-  },
-  {
     "objectID": "resources.html#warwickpres",
     "href": "resources.html#warwickpres",
     "title": "Resources",
     "section": "warwickpres",
-    "text": "warwickpres\n source  documentation\nThis is a Quarto Revealjs presentation format that is consistent with The University of Warwick’s brand.\nIt offers the following:\n\nThe University of Warwick logo on the title slide\nA theme consistent with the University of Warwick’s brand colours, including an inverse class\nA font (Lato) consistent with the University of Warwick’s typography guidelines\nColours consistent with the brand for quarto callouts\nA custom syntax highlighting theme consistent with the brand colours\nAdditional convenience classes for sizing and aligning"
+    "text": "warwickpres\n source  documentation\nThis is a Quarto Revealjs presentation format that is consistent with The University of Warwick’s brand.\nIt offers the following:\n\nThe University of Warwick logo on the title slide (pending)\nA theme consistent with the University of Warwick’s brand colours\nArial font (the brand fonts of Neue Haas Grotesk is not available open-source, nor is the preferred substitute font of Aptos. Arial is the recommended substitute if neither of those are available)\nColours consistent with the brand for quarto callouts\nA custom syntax highlighting theme consistent with the brand colours\nAdditional convenience classes for sizing and aligning"
   },
   {
     "objectID": "resources.html#warwickcourse",
     "href": "resources.html#warwickcourse",
     "title": "Resources",
     "section": "warwickcourse",
-    "text": "warwickcourse\n source  template website  full example website\nThis template is consistent with the University of Warwick’s brand, and makes it easy to make and publish websites for courses, workshops and similar.\nWhat the template looks like as a website: warwick-stats-resources.github.io/warwickcourse\nAn example of the template used for a full course: warwick-stats-resources.github.io/r-packages-2024/\nThe template has a home page ready to fill in key information about the course. It assumes that the course/workshop is delivered across several sessions, and that each session will have its own content page and its own set of slides (though can be simplified if only one content page/set of slides is required). The slides for each session are embedded in the content page for the session, and a link is supplied to read the slides in a new window.\nFor full documentation on how to use the template, see the GitHub repo’s README."
+    "text": "warwickcourse\n source  template website  full example website\nThis template is consistent with the University of Warwick’s brand, and makes it easy to make and publish websites for courses, workshops and similar.\nWhat the template looks like as a website: warwick-stats-resources.github.io/warwickcourse\nAn example of the template used for a full course: warwick-stats-resources.github.io/r-foundations-2025/\nThe template has a home page ready to fill in key information about the course. It assumes that the course/workshop is delivered across several sessions, and that each session will have its own content page and its own set of slides (though can be simplified if only one content page/set of slides is required). The slides for each session are embedded in the content page for the session, and a link is supplied to read the slides in a new window.\nFor full documentation on how to use the template, see the GitHub repo’s README."
   },
   {
-    "objectID": "courses.html",
-    "href": "courses.html",
-    "title": "Courses",
-    "section": "",
-    "text": "We teach three courses annually, usually one per term."
-  },
-  {
-    "objectID": "courses.html#upcoming-courses",
-    "href": "courses.html#upcoming-courses",
-    "title": "Courses",
-    "section": "Upcoming courses",
-    "text": "Upcoming courses\nWe will be running an R Foundations course at University of Warwick in October-November 2025. Details TBC. Please email ella.m.kaye@warwick.ac.uk to express your interest."
-  },
-  {
-    "objectID": "courses.html#past-courses",
-    "href": "courses.html#past-courses",
-    "title": "Courses",
-    "section": "Past courses",
-    "text": "Past courses\n\nR Foundations (Oct–Nov 2024)\n website  source\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.\nPrevious iterations\n\nR for Data Science (March 2024): website, source\nR Foundations (October–December, 2023): website, ssource\n\n\n\nR Programming (March 24th-25th, 2025)\n website  source\nThis is an intermediate/advanced level course. Topics covered include writing functions, error handling and debugging, classes and methods, efficient programming, profiling, C++ and Rcpp, and R tools for working with git/GitHub.\nPrevious iterations\n\nR Programming (March 2024): website, source\nAdvanced R and R Packages (July 2023): website, source\n\n\n\nR Package Development (June 2025)\n website  source\nThis is a hands-on workshop covering the entire process of creating an R package: including functions and data, checking and testing, all levels of documentation, publication and maintenance. The final session covers the advanced topic of using Rcpp code in a package.\nPrevious iterations\n\nR Packages (June 2024): website, source\nAdvanced R and R Packages (July 2023): website, source"
+    "objectID": "resources.html#warwickplots",
+    "href": "resources.html#warwickplots",
+    "title": "Resources",
+    "section": "warwickplots",
+    "text": "warwickplots\n\n\n\n\n\n\nCaution\n\n\n\nwarwickplots has not yet been updated to the new University of Warwick brand.\n\n\n source  documentation\nAn R package with colour palettes and a ggplot2 theme that are consistent with The University of Warwick’s branding, especially its colours and typography.\nThe palettes are built using the palettes package. The ggplot2 theme is heavily inspired by the work of Cara Thompson, particularly this talk on applying a unifying aesthetic to your plots."
   },
   {
     "objectID": "index.html",
@@ -56,10 +35,31 @@
     "text": "This is the landing page associated with the Warwick-Stats-Resources GitHub repo.\nOn the resources page, you’ll find details of our projects designed to make it easier to create plots, presentations and course websites consistent with the University of Warwick brand.\nOn the courses page, you’ll find links to our latest courses. Upcoming and in-progess courses are also listed here."
   },
   {
-    "objectID": "index.html#upcoming-courses",
-    "href": "index.html#upcoming-courses",
+    "objectID": "index.html#upcomingcurrent-courses",
+    "href": "index.html#upcomingcurrent-courses",
     "title": "Warwick Stats Resources",
-    "section": "Upcoming courses",
-    "text": "Upcoming courses\nWe will be running an R Foundations course at University of Warwick in October-November 2025. Details TBC. Please email ella.m.kaye@warwick.ac.uk to express your interest."
+    "section": "Upcoming/current courses",
+    "text": "Upcoming/current courses\n\nR Foundations (Oct–Nov 2025)\n website  source  sign-up\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto."
+  },
+  {
+    "objectID": "courses.html",
+    "href": "courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "We teach three courses annually, usually one per term."
+  },
+  {
+    "objectID": "courses.html#upcomingcurrent-courses",
+    "href": "courses.html#upcomingcurrent-courses",
+    "title": "Courses",
+    "section": "Upcoming/current courses",
+    "text": "Upcoming/current courses\n\nR Foundations (Oct–Nov 2025)\n website  source  sign-up\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto."
+  },
+  {
+    "objectID": "courses.html#past-courses",
+    "href": "courses.html#past-courses",
+    "title": "Courses",
+    "section": "Past courses",
+    "text": "Past courses\n\nR Foundations\nPrevious iterations\n\nR Foundations (Oct–Nov 2025): website, source\nR for Data Science (March 2024): website, source\nR Foundations (October–December, 2023): website, ssource\n\n\n\nR Programming (March 24th-25th, 2025)\n website  source\nThis is an intermediate/advanced level course. Topics covered include writing functions, error handling and debugging, classes and methods, efficient programming, profiling, C++ and Rcpp, and R tools for working with git/GitHub.\nPrevious iterations\n\nR Programming (March 2024): website, source\nAdvanced R and R Packages (July 2023): website, source\n\n\n\nR Package Development (June 2025)\n website  source\nThis is a hands-on workshop covering the entire process of creating an R package: including functions and data, checking and testing, all levels of documentation, publication and maintenance. The final session covers the advanced topic of using Rcpp code in a package.\nPrevious iterations\n\nR Packages (June 2024): website, source\nAdvanced R and R Packages (July 2023): website, source"
   }
 ]
