@@ -28,6 +28,20 @@
     "text": "warwickplots\n\n\n\n\n\n\nCaution\n\n\n\nwarwickplots has not yet been updated to the new University of Warwick brand.\n\n\n source  documentation\nAn R package with colour palettes and a ggplot2 theme that are consistent with The University of Warwick’s branding, especially its colours and typography.\nThe palettes are built using the palettes package. The ggplot2 theme is heavily inspired by the work of Cara Thompson, particularly this talk on applying a unifying aesthetic to your plots."
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Warwick Stats Resources",
+    "section": "",
+    "text": "This is the landing page associated with the Warwick-Stats-Resources GitHub repo.\nOn the resources page, you’ll find details of our projects designed to make it easier to create plots, presentations and course websites consistent with the University of Warwick brand.\nOn the courses page, you’ll find links to our latest courses. Upcoming and in-progess courses are also listed here."
+  },
+  {
+    "objectID": "index.html#upcomingcurrent-courses",
+    "href": "index.html#upcomingcurrent-courses",
+    "title": "Warwick Stats Resources",
+    "section": "Upcoming/current courses",
+    "text": "Upcoming/current courses\n\nR Foundations (Oct–Nov 2025)\n website  source  sign-up\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto."
+  },
+  {
     "objectID": "courses.html",
     "href": "courses.html",
     "title": "Courses",
@@ -47,19 +61,5 @@
     "title": "Courses",
     "section": "Past courses",
     "text": "Past courses\n\nR Foundations\nPrevious iterations\n\nR Foundations (Oct–Nov 2025): website, source\nR for Data Science (March 2024): website, source\nR Foundations (October–December, 2023): website, ssource\n\n\n\nR Programming (March 24th-25th, 2025)\n website  source\nThis is an intermediate/advanced level course. Topics covered include writing functions, error handling and debugging, classes and methods, efficient programming, profiling, C++ and Rcpp, and R tools for working with git/GitHub.\nPrevious iterations\n\nR Programming (March 2024): website, source\nAdvanced R and R Packages (July 2023): website, source\n\n\n\nR Package Development (June 2025)\n website  source\nThis is a hands-on workshop covering the entire process of creating an R package: including functions and data, checking and testing, all levels of documentation, publication and maintenance. The final session covers the advanced topic of using Rcpp code in a package.\nPrevious iterations\n\nR Packages (June 2024): website, source\nAdvanced R and R Packages (July 2023): website, source"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Warwick Stats Resources",
-    "section": "",
-    "text": "This is the landing page associated with the Warwick-Stats-Resources GitHub repo.\nOn the resources page, you’ll find details of our projects designed to make it easier to create plots, presentations and course websites consistent with the University of Warwick brand.\nOn the courses page, you’ll find links to our latest courses. Upcoming and in-progess courses are also listed here."
-  },
-  {
-    "objectID": "index.html#upcomingcurrent-courses",
-    "href": "index.html#upcomingcurrent-courses",
-    "title": "Warwick Stats Resources",
-    "section": "Upcoming/current courses",
-    "text": "Upcoming/current courses\n\nR Foundations (Oct–Nov 2025)\n website  source  sign-up\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto."
   }
 ]
