@@ -6,7 +6,7 @@ execute:
 
 website:
   title: "Warwick Stats Resources"
-  favicon: images/UoW_Favicon_16x16.png
+  favicon: images/favicon_32x32.png
   navbar:
     right:
       - text: "Resources"
