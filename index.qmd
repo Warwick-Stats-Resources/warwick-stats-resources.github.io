@@ -11,12 +11,4 @@ Upcoming and in-progess courses are also listed here.
 
 ## Upcoming/current courses
 
-### R Foundations (Oct--Nov 2025)
-
-[{{< fa globe >}} website](https://warwick-stats-resources.github.io/r-foundations-2025/){.btn .btn-primary}
-[{{< fa brands github >}} source](https://github.com/Warwick-Stats-Resources/r-foundations-2025){.btn .btn-primary}
-[{{< fa list >}} sign-up](https://warwick.ac.uk/ellakaye/r-foundations-2025){.btn .btn-primary}
-
-This course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the [Academy for PhD Training in Statistics (APTS)](https://warwick.ac.uk/fac/sci/statistics/apts/) to cover the R material that’s required for those modules.
-
-We cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.
+There are no current or upcoming courses.
