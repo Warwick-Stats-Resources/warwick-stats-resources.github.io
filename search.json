@@ -39,14 +39,14 @@
     "href": "courses.html#upcomingcurrent-courses",
     "title": "Courses",
     "section": "Upcoming/current courses",
-    "text": "Upcoming/current courses\n\nR Foundations (Oct–Nov 2025)\n website  source  sign-up\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto."
+    "text": "Upcoming/current courses\nThere are no current or upcoming courses."
   },
   {
     "objectID": "courses.html#past-courses",
     "href": "courses.html#past-courses",
     "title": "Courses",
     "section": "Past courses",
-    "text": "Past courses\n\nR Foundations\nPrevious iterations\n\nR Foundations (Oct–Nov 2025): website, source\nR for Data Science (March 2024): website, source\nR Foundations (October–December, 2023): website, ssource\n\n\n\nR Programming (March 24th-25th, 2025)\n website  source\nThis is an intermediate/advanced level course. Topics covered include writing functions, error handling and debugging, classes and methods, efficient programming, profiling, C++ and Rcpp, and R tools for working with git/GitHub.\nPrevious iterations\n\nR Programming (March 2024): website, source\nAdvanced R and R Packages (July 2023): website, source\n\n\n\nR Package Development (June 2025)\n website  source\nThis is a hands-on workshop covering the entire process of creating an R package: including functions and data, checking and testing, all levels of documentation, publication and maintenance. The final session covers the advanced topic of using Rcpp code in a package.\nPrevious iterations\n\nR Packages (June 2024): website, source\nAdvanced R and R Packages (July 2023): website, source"
+    "text": "Past courses\n\nR Foundations (October–November 2025)\n website  source\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto.\nPrevious iterations\n\nR Foundations (October–November 2024): website, source\nR for Data Science (March 2024): website, source\nR Foundations (October–December, 2023): website, source\n\n\n\nR Programming (March 24th-25th, 2025)\n website  source\nThis is an intermediate/advanced level course. Topics covered include writing functions, error handling and debugging, classes and methods, efficient programming, profiling, C++ and Rcpp, and R tools for working with git/GitHub.\nPrevious iterations\n\nR Programming (March 2024): website, source\nAdvanced R and R Packages (July 2023): website, source\n\n\n\nR Package Development (June 2025)\n website  source\nThis is a hands-on workshop covering the entire process of creating an R package: including functions and data, checking and testing, all levels of documentation, publication and maintenance. The final session covers the advanced topic of using Rcpp code in a package.\nPrevious iterations\n\nR Packages (June 2024): website, source\nAdvanced R and R Packages (July 2023): website, source"
   },
   {
     "objectID": "index.html",
@@ -60,6 +60,6 @@
     "href": "index.html#upcomingcurrent-courses",
     "title": "Warwick Stats Resources",
     "section": "Upcoming/current courses",
-    "text": "Upcoming/current courses\n\nR Foundations (Oct–Nov 2025)\n website  source  sign-up\nThis course is primarily aimed at first year Statistics PhD students. It has been developed as a prerequisite for those attending the Academy for PhD Training in Statistics (APTS) to cover the R material that’s required for those modules.\nWe cover an introduction to R and RStudio; Data types, structures, and data wrangling using the tidyverse; programming in R; simulation and optimisation; graphics (both base and ggplot2), and Quarto."
+    "text": "Upcoming/current courses\nThere are no current or upcoming courses."
   }
 ]
