@@ -50,6 +50,6 @@ This is a hands-on workshop covering the entire process of creating an R package
 
 **Previous iterations**
 
-- R Packages (June 2024): [website](https://warwick-stats-resources.github.io/r-programming-2024/), [source](https://github.com/Warwick-Stats-Resources/r-programming-2024)
+- R Packages (June 2024): [website](https://warwick-stats-resources.github.io/r-packages-2024/), [source](https://github.com/Warwick-Stats-Resources/r-packages-2024)
 
 - Advanced R and R Packages (July 2023): [website](https://warwick-stats-resources.github.io/advanced-r-packages/), [source](https://github.com/Warwick-Stats-Resources/advanced-r-packages)
